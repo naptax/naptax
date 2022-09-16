@@ -1,1 +1,5 @@
 - 👋 Hi, I’m @hexalead
+- Modern Utopist
+- Malware hunter
+- Vx-undergound Lover 
+- Father of four 
