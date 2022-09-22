@@ -5,4 +5,4 @@
 - Father of four 
 
 
-![1-nous-avons-pas-dinosaure-1](https://user-images.githubusercontent.com/112569890/191682465-64ab682e-dded-4bcf-ad99-963015d2c9b4.jpeg)
+![1-nous-avons-pas-dinosaure-rond](https://user-images.githubusercontent.com/112569890/191686883-7a83cc61-8dd0-4963-8b61-64b73155e0ec.png)
