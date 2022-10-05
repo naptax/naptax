@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @naptax
 - Modern Utopist
 - Malware hunter
+- Ethical hacker
 - Vx-undergound Lover 
 - Father of four 
 
