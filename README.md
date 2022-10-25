@@ -13,7 +13,7 @@
 *Telegram  : @naptax*
 
 
------------------------- MORE ON MY BLOG ----------------
+------------------------ *MORE ON MY BLOG* ----------------
 
 My BLOG about Reverse Enginering and Malwares Analysis : https://naptax.github.io
 
