@@ -15,6 +15,6 @@
 
 ------------------------ *MORE ON MY BLOG* ----------------
 
-My BLOG about Reverse Enginering and Malwares Analysis : https://naptax.github.io
+My BLOG about Reverse Engineering and Malwares Analysis : https://naptax.github.io
 
 -------------------------------- N O P ------------------------
