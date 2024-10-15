@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @naptax
 - Modern Utopist
+- Data Scientist
+- ML Enginer
 - Malware hunter
 - Ethical hacker
 - x64dbg and Binary Ninja Lover 
